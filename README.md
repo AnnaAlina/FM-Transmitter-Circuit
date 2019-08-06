@@ -1,0 +1,2 @@
+# FM-Transmitter-Circuit
+The purpose of this project is to design an FM transmitter using discrete components. A simple FM transmitter uses frequency modulation to transmit an intelligence signal which determines the deviation rate of the carrier frequency from the center frequency. This project was designed in four stages; an input stage, pre-amplification stage, the oscillation/modulation stage, and outputted to an antenna which transmitted the signal. To be able to transmit and FM radio signal it has to be contained within the 87.5MHz to 108MHz range.
